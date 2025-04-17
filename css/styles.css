@@ -62,7 +62,7 @@ nav img {
     display: grid;
     grid-template-columns: 40% 40%; /* END OF STEP 5 */
     /* STEP 7 */
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     row-gap: 25px; /* END OF STEP 7 */
 }
